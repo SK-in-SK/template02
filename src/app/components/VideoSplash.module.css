@@ -1,0 +1,27 @@
+.splash_outer{
+    height: calc(95dvh - var(--menu-height));
+    width: 100%;
+}
+.splash_inner{
+    height: 100%;
+    width: 100%;
+    position: relative;
+}
+.splash_overlay{
+    position: absolute;
+    background-color: rgba(4, 60, 98, 0.5);
+    height: calc(95dvh - var(--menu-height));
+    width: 100%;
+    z-index: 2;
+
+}
+.splash_content{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index:3;
+    text-align: center;
+    color: white;
+
+}

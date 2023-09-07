@@ -1,0 +1,174 @@
+{ "principle": 
+  {
+    "name": "Dr. Sigmund Furroyd, M.D., Ph.D.",
+    "title": "Professor of Psychology, University of Catbridge",
+    "email": "sigmund@furroyd.com",
+    "image": "/assets/principle.webp",
+    "biography": {
+      "title":"About Sigmund Furroyd: Unraveling Minds, One Whisker at a Time",
+      "content": [
+        {
+          "subtitle": "",
+          "text": "Sigmund Furroyd, a luminary in the field of Psychology, clawed his way to prominence with his uncatventional theories that left the world feline bewildered. Born in the meow-velous city of Vienna, Furroyd's journey into the depths of psycho-purr-sis began at the prestigious University of Catbridge for his undergraduate studies, where he majored in 'Feline Behavior and the Human Subconscious.' Furroyd's insatiable curiosity and uncanny knack for purrception led him to purrsue graduate studies at the University of Purr-inceton, where he dug his claws into 'The Unconscatious Mind: Deciphering the Mysteries of Whiskered Dreams.'"
+        },
+        {
+          "subtitle": "",
+          "text": "His purr-suasive prowess and his uncanny ability to unravel the twine of human thought soon caught the attention of the academic community. For his postgraduate studies, Furroyd ventured to the revered Whiskerford University, where he authored the ground-breaking thesis, 'Litteral Interpretation: The Hiss-tory of Dreams and Cat-symbolism.' This work, a masterpiece of paw-thority, unleashed a cataclysmic shift in the world of psychology, forever intertwining the realms of cats and the human psyche.Furroyd's catnalysis sessions, where he'd purr-ticipate in long, pawsitive conversations with his clients, earned him a reputation as the 'Therapist with Nine Lives.' His writings, including the seminal volume 'The Interpretation of Meows,' continue to purr-sist through the ages, leaving an indelible paw-sitive mark on those who seek to understand the mysterious purr-cesses of the human and feline mind."
+        },
+        {
+          "subtitle": "",
+          "text": "Today, Sigmund Furroyd is celebrated as the Professor Emeritus of Psychology, and his influence, much like a cat's paw print in the sand, remains an ever-present and enigmatic purrt of our intellectual landscape."
+        }
+
+      ]
+    }
+  },
+  "projects": [
+  {
+    "name": "The Effects of Mindfulness",
+    "featured_index": [1],
+    "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ante sed nisl semper aliquet.",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    
+  },
+  {
+    "name": "The Effects of Catitude",
+    "featured_index": [1, 2],
+    "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ante sed nisl semper aliquet.",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    
+  },
+  {
+    "name": "The Effects of Catitude",
+    "featured_index": [0, 1, 2],
+    "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ante sed nisl semper aliquet.",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    
+  },
+  {
+    "name": "The Effects of Catitude",
+    "featured_index": [0, 1, 2],
+    "description": "Ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec ante sed nisl semper aliquet.",
+    "text": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    
+  }
+],
+  "publications" : [
+  {
+    "author": "Smith, A. B., Furroyd, S., Johnson, C. D., & Parker, E. F.",
+    "title": "The Effects of Mindfulness Meditation on Stress Reduction: A Randomized Controlled Study",
+    "journal": "Journal of Applied Psychology",
+    "year": "2018",
+    "volume": "43",
+    "issue": "2",
+    "pages": "150-167",
+    "doi": "10.1234/jap.2018.123",
+    "url": "https://doi.org/10.1234/jap.2018.123"
+  },
+  {
+    "author": "Miller, J. R., Furroyd, S., Anderson, K. L., & Turner, M. S.",
+    "title": "The Role of Emotional Intelligence in Workplace Communication",
+    "journal": "Psychology and Management Quarterly",
+    "year": "2016",
+    "volume": "28",
+    "issue": "4",
+    "pages": "321-335",
+    "doi": "10.5678/pm.2016.567",
+    "url": "https://doi.org/10.5678/pm.2016.567",
+    "featured_index": 0
+  },
+  {
+    "author": "Furroyd, S., De Jeung, L. K., Harris, G. M., & Martinez, P. R.",
+    "title": "Parental Involvement and Academic Achievement: A Longitudinal Study of Middle School Students",
+    "journal": "Developmental Psychology",
+    "year": "2014",
+    "volume": "52",
+    "issue": "3",
+    "pages": "278-293",
+    "doi": "10.9876/devpsy.2014.654",
+    "url": "https://doi.org/10.9876/devpsy.2014.654",
+    "featured_index": 1
+  },
+  {
+    "author": "Brown, S. E., Wilson-Burr, D. F., & Adams, R. J., Furroyd, S.",
+    "title": "The Impact of Social Media Use on Body Image Satisfaction among Adolescents: A Cross-Sectional Analysis",
+    "journal": "Journal of Youth Studies",
+    "year": "2020",
+    "volume": "37",
+    "issue": "7",
+    "pages": "890-906",
+    "doi": "10.5678/jys.2020.123",
+    "url": "https://doi.org/10.5678/jys.2020.123",
+    "featured_index": [0, 1, 2]
+  },
+  {
+    "author": "Carter, M. T.,Furroyd, S.,  Hughes, B. L., & Foster, S. A.",
+    "title": "Exploring the Relationship between Personality Traits and Career Success in the IT Industry",
+    "journal": "Personality and Individual Differences",
+    "year": "2019",
+    "volume": "65",
+    "issue": "8",
+    "pages": "112-127",
+    "doi": "10.5678/pid.2019.987",
+    "url": "https://doi.org/10.5678/pid.2019.987"
+  },
+  {
+    "author": "Mitchell, R. O., Furroyd, S., Turner, J. P., & Davis, H. W.",
+    "title": "Effects of Color and Music on Mood Regulation: A Comparative Study",
+    "journal": "Journal of Experimental Psychology",
+    "year": "2017",
+    "volume": "49",
+    "issue": "6",
+    "pages": "745-762",
+    "doi": "10.1234/jep.2017.456",
+    "url": "https://doi.org/10.1234/jep.2017.456",
+    "featured_index": 2
+  },
+  {
+    "author": "Furroyd, S., Walker, E. S., Collins, P. R., & Morgan, K. A.",
+    "title": "The Role of Cognitive Behavioral Therapy in Treating Generalized Anxiety Disorder: A Meta-Analysis",
+    "journal": "Clinical Psychology Review",
+    "year": "2015",
+    "volume": "41",
+    "issue": "9",
+    "pages": "120-136",
+    "doi": "10.5678/cpr.2015.789",
+    "url": "https://doi.org/10.5678/cpr.2015.789"
+  },
+  {
+    "author": "Rodriguez, N. M., Furroyd, S.,Baker, F. L., & Cooper, D. J.",
+    "title": "The Influence of Peer Pressure on Risky Behavior among College Students",
+    "journal": "Journal of Social and Clinical Psychology",
+    "year": "2018",
+    "volume": "36",
+    "issue": "5",
+    "pages": "670-687",
+    "doi": "10.1234/jscp.2018.654",
+    "url": "https://doi.org/10.1234/jscp.2018.654"
+  },
+  {
+    "author": "Thompson, J. H.,Furroyd, S.,  King, M. L.",
+    "title": "Impact of Video Games on Attention and Concentration in Children: A Longitudinal Study",
+    "journal": "Child Development",
+    "year": "2016",
+    "volume": "61",
+    "issue": "1",
+    "pages": "45-59",
+    "doi": "10.9876/cd.2016.234",
+    "url": "https://doi.org/10.9876/cd.2016.234",
+    "featured_index": 0
+  },
+  {
+    "author": "Furroyd, S., Reed, T. A., Peterson, E. R., & Morris, L. B.",
+    "title": "The Effects of Humor in Advertising on Consumer Attitudes and Purchase Intentions",
+    "journal": "Journal of Consumer Psychology",
+    "year": "2017",
+    "volume": "33",
+    "issue": "11",
+    "pages": "1425-1439",
+    "doi": "10.5678/jcp.2017.890",
+    "url": "https://doi.org/10.5678/jcp.2017.890",
+    "featured_index": 1
+  }
+]
+}

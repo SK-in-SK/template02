@@ -1,0 +1,110 @@
+.header {
+  background-color: var(--menu-bg-color);
+  color: var(--menu-color);
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  height: var(--menu-height);
+  width: var(--outer-width);
+  margin-bottom: var(--section-margin);
+  font-size: 1rem;
+  z-index: 1000;
+  width: 100%;
+}
+.header nav{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.header_inner{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: var(--inner-width);
+  margin: 0 auto;
+  height: 100%;
+}
+
+
+.logo_container {
+  max-width: 150px;
+  height: 100%;
+}
+.logo_container img{
+  height: 100%;
+  width: auto;
+}
+.menu-item {
+  position: relative; /* To make the submenu relative to this container */
+  display: inline-block;
+  margin: 0 10px;
+}
+
+
+.menu-item button {
+  all: unset; /* Remove default browser styles */
+  background-color: transparent;
+  border: none;
+
+}
+.menu-item a, .menu-item button {
+  text-decoration: none;
+  color: var(--menu-color);
+  cursor: pointer;
+  font-size: 1rem;
+}
+.menu-item a:after{
+  content: '';
+  position: absolute;
+  width: 100%;
+  transform: scaleX(0);
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  background-color: var(--menu-highlight);
+  transform-origin: bottom right;
+  transition: transform 0.25s ease-out;
+}
+.menu-item a:hover:after{
+  transform: scaleX(1);
+  transform-origin: bottom left;
+
+}
+
+
+/* Styles for submenus */
+.submenu {
+  position: absolute;
+  top: 100%; /* Position below the parent menu item */
+  left: 0;
+  display: none;
+  background-color: var(--menu-paper);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1; /* Ensure the submenu appears above other content */
+  cursor: pointer;
+  transform: translateY(-0.5rem);
+  z-index: 1000;
+
+}
+
+.menu-item:hover .submenu {
+  display: block;
+
+}
+
+.submenu-item {
+  padding: 10px 15px;
+  color: #696969;
+  text-decoration: none;
+  display: block;
+  white-space: nowrap;
+  transition: all 0.25s ease-out;
+}
+
+.submenu-item:hover {
+  background-color: var(--menu-highlight);
+
+}

@@ -1,95 +1,24 @@
-import Image from 'next/image'
 import styles from './page.module.css'
+import VideoSplash from './components/VideoSplash'
+import Features from './components/Features'
+import Funding from './components/Funding'
 
+import featureImage1 from './assets/feature1.webp';
+import featureImage2 from './assets/feature2.webp';
+import featureImage3 from './assets/feature3.webp';
 export default function Home() {
+  const features = [
+    { img: featureImage1, alt: 'Description 1', title: 'Detection of knee synovitis using non-contrast-enhanced qDESS compared with contrast-enhanced MRI', subject: "Research Focus", text: 'Patients with different degrees of radiographic knee OA were included prospectively. All underwent MRI with both qDESS and contrast-enhanced T1-weighted magnetic resonance imaging (CE-MRI). A linear combination of the two qDESS images can be used to create an image that displays contrast between synovium and the synovial fluid. Synovitis on both qDESS and CE-MRI was assessed semi-quantitatively, using a whole-knee synovitis sum score, indicating no/equivocal, mild, moderate, and severe synovitis.', button: 'Learn More', details: 'Longer description 1', },
+    { img: featureImage2, alt: 'Description 2', title: 'Non-contrast MRI of synovitis in the knee using quantitative DESS', subject: "Research Focus", text: 'Twenty-two knees (11 subjects) with moderate to severe osteoarthritis (OA) were scanned using CE-MRI, qDESS with a high diffusion weighting (qDESSHigh), and qDESS with a low diffusion weighting (qDESSLow).', button: 'Learn more', details: 'Longer description 2' },
+    { img: featureImage3, alt: 'Description 3', title: 'Bone-cartilage mismatch in the medial tibial plateau: A MRI study', subject: "Research Focus", text: 'Bone-cartilage mismatch is a variation in which the surface curvature of the articular cartilage is incongruent with the curvature of the underlying subchondral bone. The purpose of this study is to investigate the prevalence of this variant in the medial tibial plateau (MTP) and examine potential association with clinical findings and intra-articular derangements using MRI.', button: 'Learn more', details: 'Longer description 3' }
+  ];
   return (
     <main className={styles.main}>
-      <div className={styles.description}>
-        <p>
-          Get started by editing&nbsp;
-          <code className={styles.code}>src/app/page.js</code>
-        </p>
-        <div>
-          <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            By{' '}
-            <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
-              priority
-            />
-          </a>
-        </div>
-      </div>
 
-      <div className={styles.center}>
-        <Image
-          className={styles.logo}
-          src="/next.svg"
-          alt="Next.js Logo"
-          width={180}
-          height={37}
-          priority
-        />
-      </div>
+      <VideoSplash />
+      <Funding />
+      <Features features={features} />
 
-      <div className={styles.grid}>
-        <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Docs <span>-&gt;</span>
-          </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
-
-        <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Learn <span>-&gt;</span>
-          </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
-        </a>
-
-        <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Templates <span>-&gt;</span>
-          </h2>
-          <p>Explore the Next.js 13 playground.</p>
-        </a>
-
-        <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <h2>
-            Deploy <span>-&gt;</span>
-          </h2>
-          <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
-          </p>
-        </a>
-      </div>
     </main>
   )
 }

@@ -1,0 +1,130 @@
+[
+    {
+        "active": true,
+        "collaborator": false,
+        "name":  "Jenny Cholmes",
+        "titles": "MSc, PhD",
+        "position": "Postdoctoral Fellow",
+        "institution": "University of Saskatchewan",
+        "description": "Jenny Cholmes is a postdoctoral fellow in the Department of Mechanical Engineering at the University of Saskatchewan. She received her B.Sc. in Mechanical Engineering from the University of Saskatchewan in 2011 and her M.Sc. and Ph.D. in Mechanical Engineering from the University of British Columbia in 2013 and 2017, respectively. Her research interests include the development of novel MRI techniques to study knee joint function in osteoarthritis.",
+        "image": "/assets/Team/Jenny.jpg"
+
+    },
+    {
+        "active": true,
+        "collaborator": false,
+        "name":  "Jarome Nickerson",
+        "titles": "BSc, MASc",
+        "position": "PhD Student",
+        "institution": "University of Saskatchewan",
+        "description": "Jason Nickerson is a PhD student in the Department of Mechanical Engineering at the University of Saskatchewan. He received his B.Sc. in Mechanical Engineering from the University of Saskatchewan in 2013 and his M.A.Sc. in Mechanical Engineering from the University of British Columbia in 2015. His research interests include the development of novel MRI techniques to study knee joint function in osteoarthritis.",
+        "image": "/assets/Team/Jarome.jpg"
+    },
+    {
+        "active": true,
+        "collaborator": false,
+        "name": "Jessica Koch",
+        "titles": "BSc",
+        "position": "Masters Student",
+        "institution": "University of Saskatchewan",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "image": "/assets/Team/Jessica.jpg"
+    },
+    {
+        "active": true,
+        "collaborator": false,
+        "name": "Jason Baldwin",
+        "titles": "BSc",
+        "position": "Masters Student",
+        "institution": "University of Saskatchewan",
+        "description": "Jason Baldwin is a Masters student in the Department of Mechanical Engineering at the University of Saskatchewan. He received his B.Sc. in Mechanical Engineering from the University of Saskatchewan in 2016. His research interests include the development of novel MRI techniques to study knee joint function in osteoarthritis.",
+        "image": "/assets/Team/Jason.jpg"
+    },
+    {
+        "active": true,
+        "collaborator": false,
+        "name":  "Jolene Hannig",
+        "titles": "BSc",
+        "position": "Masters Student",
+        "institution": "University of Saskatchewan",
+        "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+        "image": "/assets/Team/Jolene.png"
+    },
+    {
+        "active": true,
+        "collaborator": true,
+        "name":  "Harry Potter",
+        "institution": "University of Stirling, UK"
+    },
+    {
+        "active": true,
+        "collaborator": true,
+        "name":  "Ron Weasley",
+        "institution": "Aarhus University, Denmark"
+    },
+    {
+        "active": true,
+        "collaborator": true,
+        "name":  "Hermione Granger",
+        "institution": "Koç University, Turkey",
+        "url": "https://www.usask.ca/"
+    },
+    {
+        "active": true,
+        "collaborator": true,
+        "name":  "Severus Snape",
+        "institution": "University of Saskatchewan",
+        "url": "https://www.usask.ca/"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Ned Flanders",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Homer Simpson",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Apu Nahasapeemapetilon",
+        "position": "Postdoctoral Researcher",
+        "institution": "University of Saskatchewan"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Edna Krabappel",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Nelson Munz",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    },
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Marge Simpson",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    }
+    ,
+    {
+        "active": false,
+        "collaborator": false,
+        "name":  "Montgomery Burns",
+        "position": "Undergraduate Researcher",
+        "institution": "University of Saskatchewan"
+    }
+]
+

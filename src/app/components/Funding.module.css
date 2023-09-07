@@ -1,0 +1,25 @@
+.funding {
+  display: block;
+  background-color: white;
+  width: 100%;
+}
+
+.funding_inner {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  vertical-align: middle;
+}
+
+.funding_logo_container {
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+  position: relative;
+}
+.logo_image {
+  max-height: 50px;
+  width: auto;
+  height: auto;
+}

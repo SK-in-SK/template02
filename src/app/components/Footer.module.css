@@ -1,0 +1,133 @@
+.footer {
+
+    min-height: 5vh;
+    background: var(--background-color3);
+    color: var(--primary-text-dark);
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: medium;
+    display: flex;
+    align-items: center;
+
+    width: var(--outer-width);
+    overflow: hidden;
+}
+.footer a {
+    color: var(--primary-text-dark);
+    text-decoration: none;
+}
+
+.footer hr {
+    width: 100%;
+    color: var(--secondary-text);
+    padding: 0;
+    margin:0;
+
+}
+
+.footer svg {
+    width: 1.3rem;
+    height: 1.3rem;
+    stroke: black;
+    fill: var(--secondary-color);
+    margin-right: 0.5rem;
+}
+
+.footer h3 {
+    color: var(--secondary-color);
+    margin: 0;
+    padding: 0;
+    font-size: 1.15rem;
+    font-weight: bold;
+ 
+}
+.contact, .links{
+    margin: 2rem;
+}
+.footer_copyright{
+    margin: 1rem;
+}
+.footer_text {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: var(--inner-width);
+    
+}
+
+.footer .contact {
+    text-align: left;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-self: flex-start;
+
+}
+.footer .contact p{
+    margin: 0;
+    padding: 0;
+}
+
+
+.footer .contact_socials {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    margin-top: 1rem;
+}
+
+.contact_socials span {
+    display: flex;
+    align-items: center;
+
+}
+
+.contact_socials span p {
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    height: 100%;
+}
+.contact_socials a{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.svg_container {
+    margin-right: 0.5rem ;
+    display: flex;
+    align-items: center;
+    height: 1.5rem;
+}
+.footer_copyright{
+    font-weight: normal;
+    font-size: small;
+}
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /*list-style-image: url('sqpurple.gif');*/
+}
+footer .links{
+    text-align: left;
+}
+@media screen and (max-width: 460px) {
+    footer .footer_text {
+
+        flex-direction: column;
+        align-items: start;
+        margin: 2rem 0 0 0;
+    }
+    footer .contact,
+    footer .links {
+        margin: 0 0 2rem 0;
+        
+    }
+}
